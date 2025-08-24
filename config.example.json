@@ -1,0 +1,6 @@
+﻿{
+  "model_path": "models/siamesemodel.keras",
+  "input_size": [100, 100],
+  "is_pairwise": true,
+  "threshold": 0.80
+}

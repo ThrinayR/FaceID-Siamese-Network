@@ -1,0 +1,28 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Data & outputs
+data/
+runs/
+export/
+checkpoints/
+metrics.json
+config.json
+
+# Models / large
+*.keras
+*.h5
+*.tflite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# archives
+*.tgz
+lfw.tgz
+

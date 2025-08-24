@@ -1,0 +1,7 @@
+﻿tensorflow
+numpy
+pillow
+fastapi
+uvicorn[standard]
+scikit-learn
+opencv-python
